@@ -41,9 +41,10 @@ Machine_Learning/
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 
-Clone this repository
-git clone https://github.com/YourUsername/Machine_Learning.git
-cd Machine_Learning
+# Clone this repository
+git clone https://github.com/Bismark-Agyei/Smart-Irrigation-Machine-Learning-Models.git
+
+cd Smart-Irrigation-Machine-Learning-Models
 
 
 Create and activate virtual environment
