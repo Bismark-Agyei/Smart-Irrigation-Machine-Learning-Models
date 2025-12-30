@@ -17,9 +17,10 @@ Support Vector Machine (SVM)
 The models output a binary decision:
 1 → Irrigation Needed
 0 → No Irrigation Needed   
-Disclaimer:All models were trained and tested to evaluate performance in terms of accuracy, latency, and speed. However, only the Decision Tree and Random Forest models were structured to output direct irrigation recommendations (Irrigation Needed / No Irrigation Needed). The remaining models were included primarily for benchmarking and comparative analysis during experimentation.
+Disclaimer:All models were trained and tested to evaluate performance in terms of accuracy, latency, and speed. However, only the Decision Tree and Random Forest models were structured to output direct irrigation recommendations (Irrigation Needed / No Irrigation Needed). The remaining models were included primarily for benchmarking and comparative analysis during experimentation.Random Forest was selected it suited our benchmark the most speed for real time application ,accuracy and latency
 
-Machine_Learning/
+
+Machine_Learning Pipeline/ 
 │── data/
 │   ├── YieldResults.csv
 │   ├── synthetic_soil_data.csv
